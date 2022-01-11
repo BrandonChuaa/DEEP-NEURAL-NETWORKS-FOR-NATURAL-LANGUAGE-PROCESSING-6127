@@ -1,5 +1,5 @@
 # Assignment 2
-- Sequence-to-sequence with attention
+- Machine translation using sequence-to-sequence with attention
 
 # Dataset
 - http://www.statmt.org/wmt14/training-parallel-ncv9.tgz
