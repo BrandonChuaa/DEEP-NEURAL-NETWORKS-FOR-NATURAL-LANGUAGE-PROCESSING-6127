@@ -10,3 +10,7 @@
 
 # Dataset
 - https://www.kaggle.com/rtatman/the-national-university-of-singapore-sms-corpus/code
+
+# Models
+- Sequence to sequence model
+- DialoGPT model
